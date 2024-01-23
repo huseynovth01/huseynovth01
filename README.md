@@ -1,8 +1,4 @@
-### Hi there 👋
-
-# A first-level heading
-## A second-level heading
-### A third-level heading
+### Hi I am Tahir Huseynov 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">

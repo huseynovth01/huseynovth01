@@ -8,6 +8,7 @@
 </div><br/>
 
 
+
 <h3 align="left">Skills:</h3>
 <p align="left">
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png alt="HTML" width="40" height="40"/>

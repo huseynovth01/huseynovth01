@@ -1,15 +1,12 @@
 <h1>Hi ! My name is Tahir</h1>
 <h1>Front-end Developer</h1> 
 
- - <img src=https://symbl-world.akamaized.net/i/webp/42/762a4774ab6499b39df9ad6bc76b13.webp  height="20" width="20" >  I live in Baku,Azerbaijan 
- 
- - <img src=https://www.svgrepo.com/show/14477/envelope.svg height="20" width="20" > You can contact me at   huseynovth01@gmail.com
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center"></a>
+<a href="https://instagram.com/huseynovth" target="_blank">
+</div><br/>
 
-  </div><h3 align="left">Connect with me:</h3>
-
-<div> <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width: 169px;
-} ></a>
-<a href="https://github.com/huseynovth01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" width: 169px;></a>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
